@@ -1,0 +1,16 @@
+None
+    Uint
+    Ident
+    Begin
+    End
+    Var Const
+
+-2147483645
+    Print +
+    -
+    *
+    /
+    =
+
+   ;
+    ()
